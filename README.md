@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🤓 I'm currently learning Python, SQL and Dataviz... 
+- 🥺 I'm looking for help to build strong knowledge about Python and OOP
+
+Thank you for reading this short introduction 😉
+
 <!--
 **Patchoukette/patchoukette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
