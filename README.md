@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🤓 I'm currently learning Python, SQL and Dataviz... 
-- 🥺 I'm looking for help to build strong knowledge about Python and OOP
+### 🤓 I'm currently learning Python, SQL and Dataviz... 
+### 🥺 I'm looking for help to build strong knowledge about Python and OOP
 
 Thank you for reading this short introduction 😉
 
